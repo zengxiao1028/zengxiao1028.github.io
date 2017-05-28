@@ -8,8 +8,8 @@ My research interests include deep learning, mobile computing and mobile health.
 
 - Bullet
 1. MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images
-[Video](https://www.youtube.com/watch?v=-k7awuoW2rg&feature=youtu.be)
-[PDF](https://drive.google.com/file/d/0B58hocLyBTW0NWlXaGpyLUtLc0U/view?usp=sharing)
+[[Video]](https://www.youtube.com/watch?v=-k7awuoW2rg&feature=youtu.be)
+[[PDF]](https://drive.google.com/file/d/0B58hocLyBTW0NWlXaGpyLUtLc0U/view?usp=sharing)
 
 
 ## Contact
