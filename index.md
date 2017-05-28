@@ -11,6 +11,9 @@ My research interests include deep learning, mobile computing and mobile health.
 [[PDF]](https://drive.google.com/file/d/0B58hocLyBTW0NWlXaGpyLUtLc0U/view?usp=sharing)  
 (1st Place in NIH 2016 Pill Recognition Challenge [[Link]](https://www.nlm.nih.gov/news/pillimagerecognitionchallenge.html))
 
+- Deep Convolutional Neural Network for Fingerprint Pattern Classification
+[Project Link](https://zengxiao1028.github.io/CSE902_Project_17Spring/)
+
 ## Contact
 
 ### Email
