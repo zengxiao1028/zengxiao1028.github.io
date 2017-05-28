@@ -1,5 +1,7 @@
-## Welcome to GitHub Pages
+## About Me
 
+I am a second year Ph.D. Candidate in Electrical & Computer Engineering Department at Michigan State University.
+My research interests include
 You can use the [editor on GitHub](https://github.com/zengxiao1028/zengxiao1028.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
