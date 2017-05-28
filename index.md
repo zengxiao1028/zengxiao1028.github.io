@@ -7,7 +7,8 @@ My research interests include deep learning, mobile computing and mobile health.
 ## Projects
 
 - Bullet
-Mobile 
+MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images
+Video
 
 ## Contact
 
