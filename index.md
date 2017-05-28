@@ -16,9 +16,9 @@ Video
 zengxia6 [at] msu [dot] edu
 
 ### Office
-Engineering Building
-428 S. Shaw Lane, Room 1228
-Michigan State University
+Engineering Building  
+428 S. Shaw Lane, Room 1228  
+Michigan State University  
 East Lansing, MI 48824-1226
 
 
