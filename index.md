@@ -9,7 +9,7 @@ My research interests include deep learning, mobile computing and mobile health.
 - MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images
 [[Video]](https://www.youtube.com/watch?v=-k7awuoW2rg&feature=youtu.be)
 [[PDF]](https://drive.google.com/file/d/0B58hocLyBTW0NWlXaGpyLUtLc0U/view?usp=sharing)
-1st Place in NIH 2016 Pill Recognition Challenge[Link](https://www.nlm.nih.gov/news/pillimagerecognitionchallenge.html)
+1st Place in NIH 2016 Pill Recognition Challenge [[Link]](https://www.nlm.nih.gov/news/pillimagerecognitionchallenge.html)
 
 ## Contact
 
