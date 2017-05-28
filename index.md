@@ -1,7 +1,7 @@
 ## About Me
 
 I am a second year Ph.D. Candidate in Electrical & Computer Engineering Department at Michigan State University.
-My research interests include mobile computing, deep learning and mobile health. My advisor is Prof. Mi Zhang (http://www.egr.msu.edu/~mizhang/).
+My research interests include mobile computing, deep learning and mobile health. My advisor is [Prof. Mi Zhang](http://www.egr.msu.edu/~mizhang/).
 
 ##
 
