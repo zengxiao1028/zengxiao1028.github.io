@@ -19,13 +19,13 @@ My research interests include deep learning, mobile computing and mobile health.
 
 
 - Compressive Video Recovery Using Block Match Multi-Frame Motion Estimation Based on Single Pixel Cameras  
-[[Link](http://www.mdpi.com/1424-8220/16/3/318)]
+[[Link](http://www.mdpi.com/1424-8220/16/3/318)]  
 <img src="pics/sensor2.jpg" alt="alt text" width="300" height="210">
 
 
 - Design and Implementation of a heterogeneous IOT gateway  
 [[Link](http://journals.sagepub.com/doi/abs/10.1177/0142331214527600)]
-[[Link](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=639258)]
+[[Link](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=639258)]  
 <img src="pics/IOT.png" alt="alt text" width="300" height="190">
 
 
