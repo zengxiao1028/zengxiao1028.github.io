@@ -25,6 +25,8 @@ My research interests include deep learning, mobile computing and mobile health.
 
 - Design and Implementation of a heterogeneous IOT gateway  
 <img src="pics/IOT.png" alt="alt text" width="300" height="190">
+[[Link](http://journals.sagepub.com/doi/abs/10.1177/0142331214527600)]
+[[Link](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=639258)]
 [PDF](http://journals.sagepub.com/doi/abs/10.1177/0142331214527600)
 [PDF](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6392581)
 
