@@ -14,6 +14,7 @@ My research interests include deep learning, mobile computing and mobile health.
 - Deep Convolutional Neural Network for Fingerprint Pattern Classification
 [[Link](https://zengxiao1028.github.io/CSE902_Project_17Spring/)]
 ![Image](pics/sensor1.jpg)
+![Image](pics/sensor1.jpg){:height="50%" width="50%"}
 ## Contact
 
 ### Email
