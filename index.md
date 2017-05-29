@@ -10,7 +10,7 @@ My research interests include deep learning, mobile computing and mobile health.
 [[Video](https://www.youtube.com/watch?v=-k7awuoW2rg&feature=youtu.be)]
 [[PDF](https://drive.google.com/file/d/0B58hocLyBTW0NWlXaGpyLUtLc0U/view?usp=sharing)]  
 (1st Place in NIH 2016 Pill Recognition Challenge [[Link](https://www.nlm.nih.gov/news/pillimagerecognitionchallenge.html)])
-<img src="pics/mobiledeeppill.png" alt="alt text" width="300" height="150">
+<img src="pics/mobiledeeppill.png" alt="alt text" width="300" height="160">
 
 
 - Deep Convolutional Neural Network for Fingerprint Pattern Classification
