@@ -43,13 +43,13 @@ I am currently an applied scientist at Amazon Lab126, working on [Astro Project]
 [[Patent](https://patentimages.storage.googleapis.com/7b/10/76/12f51f96eacc93/US10713540.pdf)]
 [[Media](https://mitechnews.com/esd/msu-engineering-wins-nih-challenge-keep-track-pills/)]
 (1st Place in NIH 2016 Pill Recognition Challenge [[Link](https://www.nlm.nih.gov/news/pillimagerecognitionchallenge.html)])
-<img src="pics/mobiledeeppill.png" alt="alt text" width="300" height="160">
+<img src="pics/mobiledeeppill.png" alt="alt text" width="150" height="80">
 
 - SharpEar: Real-Time Speech Enhancement in Noisy Environments
 [[Patent](https://patentimages.storage.googleapis.com/75/1b/20/c60db2d4e0d014/US10811030.pdf)]
 [[Media](https://www.rdworldonline.com/hearing-aid-technology-to-eliminate-background-noise/)]
 (3rd Place in NSF Hearable Challenge[[Link](https://ubicomp.org/ubicomp2017/program/nsfhearableschallenge.html)])
-<img src="pics/sharpear.jpg" alt="alt text" width="300" height="300">
+<img src="pics/sharpear.jpg" alt="alt text" width="150" height="150">
 
 ## Contact
 
