@@ -21,9 +21,9 @@ I am currently an applied scientist at Amazon Lab126, working on [Astro Project]
 <img src="pics/mobiledeeppill.png" alt="alt text" width="300" height="160">
 
 - SharpEar: Real-Time Speech Enhancement in Noisy Environments
-[[Patent]]
-[[Media]]
-(3rd Place in NSF Hearable Challenge[[Link](https://www.nlm.nih.gov/news/pillimagerecognitionchallenge.html)])
+[[Patent](https://patentimages.storage.googleapis.com/75/1b/20/c60db2d4e0d014/US10811030.pdf)]
+[[Media](https://www.rdworldonline.com/hearing-aid-technology-to-eliminate-background-noise/)]
+(3rd Place in NSF Hearable Challenge[[Link](https://ubicomp.org/ubicomp2017/program/nsfhearableschallenge.html)])
 
 
 ## Contact
