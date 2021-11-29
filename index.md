@@ -4,7 +4,7 @@ My name is **Xiao Zeng**. I obtained my Ph.D degree in Michigan State University
 I am currently an applied scientist at Amazon Lab126, working on [Astro Project](https://www.aboutamazon.com/news/devices/meet-astro-a-home-robot-unlike-any-other), the first smart home robot.
 
 
-## Projects
+## Research Highlights
 
 ### Distributed Intelligence
 
@@ -16,9 +16,14 @@ I am currently an applied scientist at Amazon Lab126, working on [Astro Project]
 [[Video](https://www.youtube.com/watch?v=-k7awuoW2rg&feature=youtu.be)]
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3081333.3081336)]
 [[Patent](https://patentimages.storage.googleapis.com/7b/10/76/12f51f96eacc93/US10713540.pdf)]
+[[Media]]()
 (1st Place in NIH 2016 Pill Recognition Challenge [[Link](https://www.nlm.nih.gov/news/pillimagerecognitionchallenge.html)])
 <img src="pics/mobiledeeppill.png" alt="alt text" width="300" height="160">
 
+- SharpEar: Real-Time Speech Enhancement in Noisy Environments
+[[Patent]]
+[[Media]]
+(3rd Place in NSF Hearable Challenge[[Link](https://www.nlm.nih.gov/news/pillimagerecognitionchallenge.html)])
 
 
 ## Contact
