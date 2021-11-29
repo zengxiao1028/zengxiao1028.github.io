@@ -1,16 +1,16 @@
-## About
+# About
 My name is **Xiao Zeng**. I obtained my Ph.D degree in Michigan State University under the supervision of Prof. [Mi Zhang](https://www.egr.msu.edu/~mizhang/). My research interests include DNN Model Optimization, Federated Learning and Artificial Inlligence of Things (AIoT). I envision that the world of future is **connnected by distributed intelligence**. 
 
 I am currently an applied scientist at Amazon Lab126, working on [Astro Project](https://www.aboutamazon.com/news/devices/meet-astro-a-home-robot-unlike-any-other), the first smart home robot.
 
 
-## Projects
+# Projects
 
-# Distributed Intelligence
+## Distributed Intelligence
 
-# Deep Learnning Model Optimization
+## Deep Learnning Model Optimization
 
-# Mobile Health
+## Mobile Health
 
 - MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images  
 [[Video](https://www.youtube.com/watch?v=-k7awuoW2rg&feature=youtu.be)]
@@ -21,10 +21,10 @@ I am currently an applied scientist at Amazon Lab126, working on [Astro Project]
 
 
 
-## Contact
+# Contact
 
-### Email
-zenxiao@amazon.com
+## Email
+zengxia6@msu.edu
 
 
 
