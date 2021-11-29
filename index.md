@@ -1,7 +1,7 @@
-## Xiao Zeng
+## Xiao Zeng, Ph.D.
 
-## About
-My name is **Xiao Zeng**. I obtained my Ph.D degree in Michigan State University under the supervision of Prof. [Mi Zhang](https://www.egr.msu.edu/~mizhang/). My research interests include **Model Architecture Optimization/Search, Federated Learning and Artificial Inlligence of Things (AIoT)**. I envision that the world of future is **connnected by distributed intelligence**. 
+## About Me
+I obtained my Ph.D degree in Michigan State University under the supervision of Prof. [Mi Zhang](https://www.egr.msu.edu/~mizhang/). My research interests include **Model Architecture Optimization/Search, Federated Learning and Artificial Inlligence of Things (AIoT)**. I envision that the world of future is **connnected by distributed intelligence**. 
 
 I am currently an applied scientist at Amazon Lab126, working on [Astro Project](https://www.aboutamazon.com/news/devices/meet-astro-a-home-robot-unlike-any-other), the first smart home robot.
 
