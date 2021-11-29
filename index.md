@@ -58,7 +58,7 @@ I am currently an applied scientist at Amazon Lab126, working on [Astro Project]
 ## Contact
 
 ### Email
-zengxia6@msu.edu
+zengxia6[AT]msu[DOT]edu
 
 
 
