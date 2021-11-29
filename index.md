@@ -24,16 +24,16 @@ I am currently an applied scientist at Amazon Lab126, working on [Astro Project]
 ### Model Architecture Optimization/Search
 
 - HM-NAS: EfficientNeural Architecture Search via Hierarchical Masking
-[ICCV 2019 Neural Architecture Search Workshop](https://arxiv.org/pdf/1909.00122.pdf)
+[[ICCV 2019 Neural Architecture Search Workshop](https://arxiv.org/pdf/1909.00122.pdf)]
 
 - Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?
-[NeurIPS 2020](https://arxiv.org/pdf/2006.06936.pdf)
+[[NeurIPS 2020](https://arxiv.org/pdf/2006.06936.pdf)]
 
 - FlexDNN: Input-Adaptive On-Device Deep Learning for Efficient Mobile Vision
-[SEC2020](https://www.egr.msu.edu/~mizhang/papers/2020_SEC_FlexDNN.pdf)
+[[SEC2020](https://www.egr.msu.edu/~mizhang/papers/2020_SEC_FlexDNN.pdf)]
 
 - NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision 
-[MobiCom2018](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)
+[[MobiCom2018](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)]
 
 ### Mobile Health
 
