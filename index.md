@@ -24,7 +24,7 @@ I am currently an applied scientist at Amazon Lab126, working on [Astro Project]
 [[Patent](https://patentimages.storage.googleapis.com/75/1b/20/c60db2d4e0d014/US10811030.pdf)]
 [[Media](https://www.rdworldonline.com/hearing-aid-technology-to-eliminate-background-noise/)]
 (3rd Place in NSF Hearable Challenge[[Link](https://ubicomp.org/ubicomp2017/program/nsfhearableschallenge.html)])
-
+<img src="pics/sharpear.jpg" alt="alt text" width="300" height="300">
 
 ## Contact
 
