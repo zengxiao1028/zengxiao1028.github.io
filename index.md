@@ -8,15 +8,28 @@ I am currently an applied scientist at Amazon Lab126, working on [Astro Project]
 
 ### Distributed Intelligence
 
+- Mercury: Efficient On-Device Distributed DNN Training via Stochastic Importance Sampling
+[[SenSys2021](https://dl.acm.org/doi/pdf/10.1145/3485730.3485930)]
+
+- FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking
+[[SenSys2021](https://dl.acm.org/doi/pdf/10.1145/3485730.3485929)]
+
+- FedML: A Research Library and Benchmark for Federated Machine Learning
+[[NeurIPS 2020 SpicyFL WorkShop Best Paper Award](https://arxiv.org/pdf/2007.13518.pdf)]
+[[Project Home Page][https://fedml.ai/]]
+
+- Distream: Scaling Video Stream Analytics with Workload-Adaptive Distributed Intelligence
+[[SenSys2020](https://dl.acm.org/doi/pdf/10.1145/3384419.3430721?casa_token=gcmqRUgEJzAAAAAA:xSt9NWNGrMsSnsf929OAj-tMRSOBbdwRRcJj6zMiBXAOeLoMVGkzch04MSnKOIXucYHoJ6XLCYIN9A)]
+
 ### Deep Learnning Model Optimization
 
 ### Mobile Health
 
 - MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images  
 [[Video](https://www.youtube.com/watch?v=-k7awuoW2rg&feature=youtu.be)]
-[[Paper](https://dl.acm.org/doi/pdf/10.1145/3081333.3081336)]
+[[MobiSys2017](https://dl.acm.org/doi/pdf/10.1145/3081333.3081336)]
 [[Patent](https://patentimages.storage.googleapis.com/7b/10/76/12f51f96eacc93/US10713540.pdf)]
-[[Media]]()
+[[Media](https://mitechnews.com/esd/msu-engineering-wins-nih-challenge-keep-track-pills/)]
 (1st Place in NIH 2016 Pill Recognition Challenge [[Link](https://www.nlm.nih.gov/news/pillimagerecognitionchallenge.html)])
 <img src="pics/mobiledeeppill.png" alt="alt text" width="300" height="160">
 
