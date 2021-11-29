@@ -1,5 +1,5 @@
 ## About
-My name is **Xiao Zeng**. I obtained my Ph.D degree in Michigan State University under the supervision of Prof. (Mi Zhang[[Link](https://www.egr.msu.edu/~mizhang/)]). I am an applied scientist at Amazon Lab126. 
+My name is **Xiao Zeng**. I obtained my Ph.D degree in Michigan State University under the supervision of Prof. [[Mi Zhang](https://www.egr.msu.edu/~mizhang/)]. I am an applied scientist at Amazon Lab126. 
 
 
 
